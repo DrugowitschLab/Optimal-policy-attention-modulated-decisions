@@ -8,7 +8,7 @@ Jang, A. I., Sharma, R., & Drugowitsch, J. (2021). Optimal policy for attention-
 ## Installation
 To run the scripts, download & extract them into a folder of your choice, and navigate to this folder within MATLAB.
 
-The 'data' folder contains the human behavioral data from the following two papers (shared hereh with authors' permission):
+The 'data' folder contains the human behavioral data from the following two papers (shared here with authors' permission):
 1. datastruct_aVBDM.mat: Krajbich, I., Armel, C., & Rangel, A. (2010). Visual fixations and the computation and comparison of value in simple choice. Nature neuroscience, 13(10), 1292-1298.
 2. datastruct_aPDM.mat: Tavares, G., Perona, P., & Rangel, A. (2017). The attentional drift diffusion model of simple perceptual decision-making. Frontiers in neuroscience, 11, 468.
 
